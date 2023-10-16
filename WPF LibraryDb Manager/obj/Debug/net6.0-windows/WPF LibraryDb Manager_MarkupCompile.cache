@@ -1,0 +1,20 @@
+﻿WPF LibraryDb Manager
+
+
+winexe
+C#
+.cs
+C:\Users\hasan\WPF Projects\EF WPF LibraryDB Manager HW\WPF LibraryDb Manager\obj\Debug\net6.0-windows\
+WPF_LibraryDb_Manager
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\hasan\WPF Projects\EF WPF LibraryDB Manager HW\WPF LibraryDb Manager\App.xaml
+15-1602381450
+
+31381166070
+223576797806
+Resource Dictionaries\MainDictionary.xaml;Views\AuthorPage.xaml;Views\BooksPage.xaml;Views\CategoryPage.xaml;Views\DepartmentsPage.xaml;Views\FacultiesPage.xaml;Views\GroupPage.xaml;Views\LibsPage.xaml;Views\MainView.xaml;Views\PressPage.xaml;Views\SCardsPage.xaml;Views\StudentPage.xaml;Views\TCardsPage.xaml;Views\TeachersPage.xaml;Views\ThemesPage.xaml;
+
+False
+
